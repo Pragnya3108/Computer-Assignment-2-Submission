@@ -2,7 +2,7 @@
 
 void main() 
 {
-    int n,count=0,lastdig,firstdig,i,t;
+    int n,lastdig,firstdig,i,t;
     printf("\n Enter a number: ");
     scanf("%d",&n);
     lastdig=n%10;
